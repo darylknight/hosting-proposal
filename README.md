@@ -1,7 +1,7 @@
 # Hosting Proposal – `[website]` - `[date]`
 
 ## Summary
-The Client (`[client]`), located at `[address]` is hiring CodeKnight to set up and manage hosting for `[website]`. This document is bound by and to be read in conjunction with CodeKnight's Hosting Terms and Conditions, which can be found online at [codeknight.co.uk/hosting](http://codeknight.co.uk/hosting). My preferred hosting provider is DigitalOcean.
+The Client (`[client]`), located at `[address]` is hiring CodeKnight to set up and manage hosting for `[website]` for the total cost of `[cost]`. This document is bound by and to be read in conjunction with CodeKnight's Hosting Terms and Conditions, which can be found online at [codeknight.co.uk/hosting](http://codeknight.co.uk/hosting). My preferred hosting provider is DigitalOcean.
 
 ## Server Specification
 Your server will start with the following specifications which will be reviewed yearly.
@@ -31,6 +31,9 @@ If you'd like me to update your content, maintain your website source code and p
 This agreement does not cover any issues related to email setup, IT support, working with external companies, content updates or any other issues arising from the website itself. Any downtime is the responsibility of the hosting company.
 
 I can't possibly make sure that your site is 100% secure, but if there is a breach then I reserve the right to resolve security issues at a reduced hourly rate. To reduce the risk of security issues, I recommend that you take out a maintenance retainer.
+
+## Costs
+The total cost of this hosting arrangement is £`[cost]`. This is reviewed yearly.
 
 ## Payment Terms
 Invoices are issued yearly in advance, one month before your hosting is due for renewal. Invoices are due within 14 days via BACS or Stripe. Overdue invoices will result in the hosting being terminated, and your website and related services will go offline. I cannot be held responsible for damages or loss of business as a result of terminated hosting.
