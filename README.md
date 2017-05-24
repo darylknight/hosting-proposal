@@ -39,7 +39,7 @@ The total cost of this hosting arrangement is £`[cost]`. This is reviewed yearl
 Invoices are issued yearly in advance, one month before your hosting is due for renewal. Invoices are due within 14 days via BACS or Stripe. Overdue invoices will result in the hosting being terminated, and your website and related services will go offline. I cannot be held responsible for damages or loss of business as a result of terminated hosting.
 
 ## Service Level Agreement & Liability
-DigitalOcean provides a 99.99% Uptime SLA for their servers. I will refund any significant amount of lost time at a rate of £0.05 per hour upon request. The Client shall indemnify CodeKnight against all damages, losses and expenses arising as a result of any action or claim relating to website downtime.
+DigitalOcean provides a 99.99% Uptime SLA. I will refund any significant amount of lost time at a rate of £0.05 per hour upon request. The Client shall indemnify CodeKnight against all damages, losses and expenses arising as a result of any action or claim relating to website downtime.
 
 ## Contact
 I will be available for contact between 8am and 6pm UK time, and will respond to all support requests within 24 hours.
