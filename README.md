@@ -1,7 +1,7 @@
 # Hosting Proposal – `[website]` - `[date]`
 
 ## Summary
-The Client (`[client]`), located at `[address]` is hiring CodeKnight to set up and manage hosting for `[website]` for the total cost of `[cost]`. This document is bound by and to be read in conjunction with CodeKnight's Hosting Terms and Conditions, which can be found online at [codeknight.co.uk/hosting](http://codeknight.co.uk/hosting). My preferred hosting provider is DigitalOcean.
+The Client (`[client]`), located at `[address]` is hiring CodeKnight to set up and manage hosting for `[website]` for the total cost of £`[cost]`. This document is bound by and to be read in conjunction with CodeKnight's Hosting Terms and Conditions, which can be found online at [codeknight.co.uk/hosting](http://codeknight.co.uk/hosting). My preferred hosting provider is DigitalOcean.
 
 ## Server Specification
 Your server will start with the following specifications which will be reviewed yearly.
