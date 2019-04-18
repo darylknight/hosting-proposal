@@ -1,3 +1,5 @@
+We're sharing this document to help other developers consider how they run their own businesses, but you should in no circumstance treat them as legal advice, nor are we to be held responsible.
+
 # Hosting Contract – `[website]` - `[date]`
 
 ## Summary
