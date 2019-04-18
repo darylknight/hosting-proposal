@@ -1,4 +1,4 @@
-We're sharing this document to help other developers consider how they run their own businesses, but you should in no circumstance treat them as legal advice, nor are we to be held responsible.
+_We're sharing this document to help other developers consider how they run their own businesses, but you should in no circumstance treat them as legal advice, nor are we to be held responsible._
 
 # Hosting Contract – `[website]` - `[date]`
 
