@@ -1,4 +1,4 @@
-_We're sharing this document to help other developers consider how they run their own businesses, but you should in no circumstance treat them as legal advice, nor are we to be held responsible._
+_The document below is an example of a contract we use with our clients when we sell hosting as a service. We're sharing it to help other developers consider how they run their own businesses, but you should in no circumstance treat it as legal advice, and you may not hold us responsible for anything that goes wrong if you choose to use it._
 
 # Hosting Contract – `[website]` - `[date]`
 
